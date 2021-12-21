@@ -1,9 +1,9 @@
 # E-shopping-cart-Asp.net-website
 
-# To See This files and edit this files you nees to install visual studio v-12 and 15 
-# then you hava to move all this files to visual studio program files folder or 
+# To See This files and edit this files you need to install visual studio v-2012 and 2015 
+# then you have to move all this files to visual studio program files folder or 
 # You can make your Own folder and open with visual studio 
-# you nedd atAleat .net 4.0.0 and less version to restore and edit this website 
+# you need atAleat .net 4.0.0 and less version to restore and edit this website 
 
 ---> In this Project We Created E shopper Website Using Asp.net 
 ---> You can see all ScreenShot given below and try 
